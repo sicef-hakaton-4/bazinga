@@ -1,0 +1,3 @@
+Server za frontend: https://tr4ns2.tr4ns.com/BazingaFrontEnd/
+
+API: https://bazingahakaton.herokuapp.com/
